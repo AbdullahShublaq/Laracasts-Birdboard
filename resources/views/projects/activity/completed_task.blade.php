@@ -1,0 +1,1 @@
+<span class="text-blue-500">{{ $activity->user->name }}</span> Completed "{{ $activity->subject->body }}".

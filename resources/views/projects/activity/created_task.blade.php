@@ -1,0 +1,1 @@
+<span class="text-blue-500">{{ $activity->user->name }}</span> Created <span class="text-green-500">{{ $activity->subject->body }}</span>.
